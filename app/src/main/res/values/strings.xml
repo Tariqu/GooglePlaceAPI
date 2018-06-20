@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GooglePlaceAPI</string>
+    <string-array name="type">
+        <item>atm</item>
+        <item>resturant</item>
+        <item>school</item>
+        <item>pharmacy</item>
+        <item>hospital</item>
+    </string-array>
+</resources>
